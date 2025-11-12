@@ -1,0 +1,23 @@
+{
+  "name": "hebrew-learning-app",
+  "version": "1.0.0",
+  "description": "Interactive Hebrew reading and writing learning app with gamification and text-to-speech.",
+  "scripts": {
+    "start": "npx http-server -c-1 -p 8080",
+    "serve": "npx http-server -c-1 -p 8080",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "hebrew",
+    "learning",
+    "education",
+    "gamification",
+    "text-to-speech"
+  ],
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
